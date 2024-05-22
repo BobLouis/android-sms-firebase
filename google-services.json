@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714530310355",
+    "project_id": "android-sms-94b1c",
+    "storage_bucket": "android-sms-94b1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714530310355:android:03080ba4c581f50bc1ac26",
+        "android_client_info": {
+          "package_name": "com.louis_7th.otpauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHhbUBu6fBsOB582_f_LWpPL8VYm8qUE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
